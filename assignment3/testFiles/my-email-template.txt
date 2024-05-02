@@ -1,0 +1,24 @@
+Subject: Important Update Regarding Your Account with [[company_name]]
+
+Dear [[first_name]] [[last_name]],
+
+We are reaching out to you as a valued customer of [[company_name]] to address a matter of utmost importance regarding the security of your personal information.
+
+As part of our ongoing commitment to transparency and the protection of our clients, we recently identified a security incident that may have involved your personal data. This includes your name, address ([[address]], [[city]], [[county]], [[state]] [[zip]]), contact numbers ([[phone1]], [[phone2]]), and email address ([[email]]).
+
+Please be assured that we are taking this matter very seriously and have taken immediate steps to secure our systems. In collaboration with cybersecurity experts, we are conducting a thorough investigation to understand what happened and to prevent any similar incidents in the future.
+
+To help protect your identity and personal information, [[company_name]] is offering a complimentary one-year subscription to a leading credit monitoring service. Details on how to enroll in this service will be sent to you in a separate communication.
+
+We understand the importance of your trust and confidence in us and are committed to maintaining the highest standards of privacy and security. For more information on how you can protect yourself, or if you have any questions, please visit our website at [[web]] or contact our support team at [[phone1]].
+
+We sincerely apologize for any inconvenience or concern this incident may cause you. Thank you for your continued trust in [[company_name]].
+
+Warmest regards,
+
+The [[company_name]] Team
+[[address]], [[city]], [[county]], [[state]] [[zip]]
+Phone: [[phone1]] | [[phone2]]
+Email: [[email]]
+Website: [[web]]
+
