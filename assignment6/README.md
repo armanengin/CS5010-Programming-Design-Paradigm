@@ -65,13 +65,13 @@ Represent different types of messages exchanged between the client and server.
 - Examples: ConnectMessage, BroadcastMessage, DirectMessage, QueryConnectedUsers, DisconnectMessage, SendInsult, etc.
 - Each message class has methods to send and process the message.
 
-  ## Include any assumptions you made about the nature of the problem.
+  ## The assumptions I made about the nature of the problem.
 - Clients will connect to the server using TCP sockets.
 - Each client will be uniquely identified by their username.
 - The server will handle concurrent connections using a thread pool.
 - if it is reached to 10 clients server should send a message that server is full
     
-  ## Include steps you took to ensure correctness
+  ## Steps I took to ensure correctness
 - Reviewed the provided requirements and specifications for both the server and client components of the application.
 - Ensured that the server starts up and listens on an available port, printing a message to the console with the port information upon startup.
 - Implemented functionality in the server to handle incoming client connections, up to a maximum of 10 clients, and handle each connected client appropriately.
